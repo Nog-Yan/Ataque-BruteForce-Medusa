@@ -1,5 +1,6 @@
 # Ataque-BruteForce-Medusa
-Laboratório BruteForce - Medusa em Kali + Metasploitable
+
+Lab BruteForce - Projeto de Bootcamp de cibersegurança Santander em parceria com a DIO onde foram utilizados scrips, worlists e ferramentas como Medusa no Kali linux contra uma maquina rodando Metasploitable como alvo.
 
 2 VMs no VirtualBox: Kali Linux (atacante) e Metasploitable2/DVWA (alvo)
 
