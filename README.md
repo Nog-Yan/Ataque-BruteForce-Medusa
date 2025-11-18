@@ -4,11 +4,11 @@ Lab BruteForce - Projeto de Bootcamp de cibersegurança Santander em parceria co
 
 2 VMs no VirtualBox: Kali Linux (atacante) e Metasploitable2/DVWA (alvo)
 
-Rede: Host-only / internal (isolada) I P do alvo usado: 192.168.56.102
+Rede: Host-only / internal (isolada) IP do alvo usado: 192.168.56.102
 
 1#
 
-ping -c 3 192.168.56.102 image
+ping -c 3 192.168.56.102 
 
 mmap -sV -p 21,22,80,445,139 192.168.56.102
 
